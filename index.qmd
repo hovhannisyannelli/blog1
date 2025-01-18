@@ -101,7 +101,7 @@ These findings highlight the importance of lived experiences in shaping attitude
 
 ## Ethical Concerns in Data-Driven Mental Health Care
 
-While data science offers exciting opportunities as we have saw from some simple insights before, its application in mental health 
+While data science offers exciting opportunities as we have seen from some simple insights before, its application in mental health 
 raises important ethical concerns.
 
 ### Privacy and Confidentiality: Challenges and Possible Solutions
